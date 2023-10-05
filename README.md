@@ -1,6 +1,6 @@
 # NN_and_LLM
 
-Welcome everyone to the Neural Networks and Large Language Models course. This course wass designed to introduce us to the concepts of Neural Networks (NN), Natural Language Processing (NLP) and Large Language Models (LLM). It was a 4-week course, with each week covering one topic and the final week focusing on the applicational part.
+Welcome everyone to the Neural Networks and Large Language Models course. This course was designed to introduce us to the concepts of Neural Networks (NN), Natural Language Processing (NLP) and Large Language Models (LLM). It was a 4-week course, with each week covering one topic and the final week focusing on the applicational part.
  
 
 A week-wise distribution of the course was as follows:
